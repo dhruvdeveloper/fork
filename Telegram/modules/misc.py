@@ -335,8 +335,8 @@ def stats(update, context):
         update.effective_message.reply_text(status +
             "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS]) +
-            "\n\n[⍙ GitHub](https://github.com/ITZ-ZAID) | [⍚ GitLab](https://gitlab.com/ITZ-ZAID)\n\n" +
-            "╘══「 by [Zaid](https://t.me/Timesisnotwaiting) 」\n",
+            "\n\n[⍙ About Owner](https://t.me/about_aakash)\n\n" +
+            "╘══「 by [Aakash](https://t.me/notaakash) 」\n",
         parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(kb), disable_web_page_preview=True)
     except BaseException:
         update.effective_message.reply_text(
