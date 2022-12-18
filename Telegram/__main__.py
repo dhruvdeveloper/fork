@@ -654,7 +654,7 @@ def donate(update: Update, _: CallbackContext):
         context: CallbackContext -
     """
 
-    update.effective_message.reply_text(" FOR DONATIONS DM @NOTAAKASH")
+    update.effective_message.reply_text("Mʏ Oᴡɴᴇʀ ɪs Rɪᴄʜ, Nᴏ Nᴇᴇᴅ :)")
 
 @zaidmsg(Filters.status_update.migrate)
 def migrate_chats(update: Update, context: CallbackContext):
