@@ -197,7 +197,7 @@ FED_USER_HELP: |
     • `/frules`*:* See Federation regulations
 
 formt_help_bse: |
-    Anie supports a large number of formatting options to make your messages more expressive. Take a look!
+    Wɪʟᴅ supports a large number of formatting options to make your messages more expressive. Take a look!
 
 md_help: |
     <b>Markdown Formatting</b>
@@ -249,9 +249,9 @@ antispam_help: |
 
      Anti-Spam, used by bot devs to ban spammers across all groups. This helps protect
      you and your groups by removing spam flooders as quickly as possible.
-     *Note:* Users can appeal gbans or report spammers at @AnieSupports
+     *Note:* Users can appeal gbans or report spammers at @GFC_SUPPORT
 
-     Anie also integrates @Spamwatch API to remove Spammers as much as possible from your chatroom!
+     WILD also integrates @Spamwatch API to remove Spammers as much as possible from your chatroom!
      *What is SpamWatch?*
      SpamWatch maintains a large constantly updated ban-list of spambots, trolls, bitcoin spammers and unsavoury characters.
      Constantly help banning spammers off from your group automatically So, you wont have to worry about spammers storming your group.
