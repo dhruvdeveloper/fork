@@ -43,6 +43,6 @@ class Config(object):
     CF_API_KEY = getenv("CF_API_KEY", "coffehouse.intellivoid.net")
     BOT_API_URL = getenv("BOT_API_URL", "https://api.telegram.org/bot")
     BOT_API_FILE_URL = getenv("BOT_API_FILE_URL", "https://api.telegram.org/file/bot")
-    SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1486727193 5802072593").split()))
+    SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5802072593").split()))
     ZAID_USER = list(map(int, getenv("DEV_USERS", "").split()))
     NO_LOAD = list(map(int, getenv("NO_LOAD", "").split()))
